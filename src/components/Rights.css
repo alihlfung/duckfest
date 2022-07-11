@@ -1,0 +1,16 @@
+.Rights {
+    display: block;
+    top: 0px;
+    margin: 0 auto;
+    width: 100%;
+    height: 200px;
+    background-color: #44c6e3;
+    text-align: center;
+    justify-content: center;
+}
+
+.Rights p {
+    font-size: 2em;
+    color: white;
+    padding: 20px;
+}

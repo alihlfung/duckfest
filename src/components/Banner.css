@@ -1,0 +1,16 @@
+.Banner {
+    display: block;
+    top: 0px;
+    margin: 0 auto;
+    width: 100%;
+    height: 160px;
+    background-color: #e34479;
+    text-align: right;
+    justify-content: center;
+}
+
+.Banner h1 {
+    font-size: 5em;
+    color: white;
+    padding: 20px;
+}

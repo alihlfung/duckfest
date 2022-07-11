@@ -1,0 +1,16 @@
+.App {
+  padding: 20px;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.App .Gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1250px;
+  margin: auto;
+}
+
