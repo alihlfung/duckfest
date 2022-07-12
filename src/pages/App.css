@@ -14,3 +14,7 @@
   margin: auto;
 }
 
+/* setting margin to 0 gets rid of the white space at the top */
+h1, p {
+  margin: 0;
+}
